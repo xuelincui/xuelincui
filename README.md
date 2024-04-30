@@ -2,7 +2,7 @@
 - 👀 I’m interested in medical imaging
 - 🌱 I’m currently learning AI on medical imaging
 - 💞️ I’m looking to collaborate on AI on medical imaging
-- 📫 How to reach me xcui@ieee.org
+- 📫 How to reach me cui@vt.edu
 
 <!---
 xuelincui/xuelincui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
