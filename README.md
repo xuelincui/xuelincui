@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xuelincui
-- 👀 I’m interested in medical imaging
-- 🌱 I’m currently learning AI on medical imaging
-- 💞️ I’m looking to collaborate on AI on medical imaging
+- 👀 I’m interested in robotics, computer vision, and medical imaging.
+- 🌱 I’m currently learning robotics, computer vision, and AI.
+- 💞️ I’m looking to collaborate on robotics, computer vision, and medical imaging.
 - 📫 How to reach me cui@vt.edu
 
 <!---
